@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Karl Marx Roxas
-- 👀 I’m interested in java, data structure, security, and privacy
-- 🌱 I’m currently learning C++ 
-- 💞️ I’m looking to collaborate on entry-level project
+- 👀 I’m interested in data structure, security, and privacy 
 - 📫 How to reach me karlmarxroxas1@gmail.com
 
 <!---
