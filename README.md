@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Karl Marx Roxas
-- 👀 I’m interested in data structure, security, and privacy 
 - 📫 How to reach me karlmarxroxas1@gmail.com
 
 <!---
