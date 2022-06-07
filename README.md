@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
   </h1>
 </div>  
 
-### 👨‍💻About Me:
+### About Me:
 - I'm a sophomore at National University- Manila taking BSIT-MAA.
 - I want to create my own start up that can help a small group of people.
 - Currently Exploring Web Development
@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### 🛠️: Language and Tools I know:
+### Language and Tools I know:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50"/>&nbsp;
