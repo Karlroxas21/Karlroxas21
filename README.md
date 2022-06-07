@@ -28,9 +28,11 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="50"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" height="80"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="50"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="50"/>&nbsp;
 
 </div>
