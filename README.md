@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 </div>  
 
 ### About Me:
-- I'm a sophomore at National University- Manila taking BSIT-MAA.
+- I am a 2nd year student at National University- Manila taking BSIT-MAA.
 - I want to create my own start up that can help a small group of people.
 - Currently Exploring Web Development
 - Interested in Java, Algorithms and Math(actually I am bad at math but I like it).
