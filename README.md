@@ -9,5 +9,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300">
 </div>  
 
-# Hi there
-<hr>
+<div align="center">Hi there</div>
