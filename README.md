@@ -4,11 +4,6 @@
 Karlroxas21/Karlroxas21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<style>
-  .white{
-    backgound-color:white;
-  }
-</style>
 
 <div id= "header" align="center">
   <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300">
@@ -39,6 +34,6 @@ You can click the Preview link to take a look at your changes.
    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" height="50"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" height="50"/>&nbsp;
-   <img class="white" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" fill="#60be86"height="50"/>&nbsp;
+   <img class="white" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50"/>&nbsp;
 
 </div>
