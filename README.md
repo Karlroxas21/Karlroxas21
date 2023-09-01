@@ -35,5 +35,6 @@ You can click the Preview link to take a look at your changes.
   <img src="resource/MongoDB_ForestGreen.png" height="50"/>&nbsp;
   <img src="resource/nodejs.svg" height="50"/>&nbsp;
   <img src="resource/Expressjs.png" height="50"/>&nbsp;
-  <img src="resource/postman.png" height="50"/>
+  <img src="resource/postman.png" height="50"/>&nbsp;
+  <img src="resource/01-primary-blue-docker-logo.png" height="50"/>&nbsp;
 </div>
