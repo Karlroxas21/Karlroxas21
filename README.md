@@ -28,11 +28,11 @@ You can click the Preview link to take a look at your changes.
 ### About Me:
 - I am a 4th year student at National University Philippines taking BSIT with Specialization in Multimedia arts and animation. 
 - Building skills to solve real-world problems
-- Currently Exploring Game & Web Dev, Security and Hardware
+- Currently I'm taking Backend and API Certification 
 - Interested in Java, Algorithms, Infrastructure and Math(actually I am bad at math but I like it).
 - In my free time, I read articles and watch tech videos.
 - You can reach me at my email supercrane21@protonmail.com
-- Proficiency in Full Stack Web Development (MEAN as of the moment)
+- Proficiency in Full Stack Web Development (MEAN)
 
 ---
 
