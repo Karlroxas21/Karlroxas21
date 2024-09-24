@@ -26,14 +26,14 @@ You can click the Preview link to take a look at your changes.
 
 
 ### About Me:
-- I am a 4th year student at National University Philippines taking BSIT with Specialization in Multimedia arts and animation. 
+- Recent Bachelor's Degree in Information Technology graduate National University Manila.
+- I like C++, Java, Javascript, and Typescript.
 - Building skills to solve real-world problems
-- Currently I'm taking Backend and API Certification 
+- Currently I'm taking Relational Database Certification from freeCodeCamp
 - Interested in Java, Algorithms, Infrastructure and Math(actually I am bad at math but I like it).
 - In my free time, I read articles and watch tech videos.
 - You can reach me at my email supercrane21@protonmail.com
-- Proficiency in Full Stack Web Development (MEAN)
-
+- Proficiency in Full Stack Web and Software Development
 ---
 
 ### Language and Tools:
