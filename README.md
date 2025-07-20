@@ -32,7 +32,7 @@ You can click the Preview link to take a look at your changes.
 - Currently I'm taking Relational Database Certification from freeCodeCamp
 - Interested in Java, Algorithms, Infrastructure and Math(actually I am bad at math but I like it).
 - In my free time, I read articles and watch tech videos.
-- You can reach me at my email supercrane21@protonmail.com
+- You can reach me at my email karlm.roxas@gmail.com
 - Proficiency in Full Stack Web and Software Development
 ---
 
