@@ -1,69 +1,88 @@
-<!---
-Karlroxas21/Karlroxas21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
-<div id= "header" align="center">
-  <img src="https://media.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif" width="300">
-  <h1>
-    Hi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
-  </h1>
-  <!-- LINKS -->
-<div id="badges">
-  <a href="">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-</div>  
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-
-### About Me:
-- Recent Bachelor's Degree in Information Technology graduate National University Manila.
-- I like C++, Java, Javascript, and Typescript.
-- Building skills to solve real-world problems
-- Currently I'm taking Relational Database Certification from freeCodeCamp
-- Interested in Java, Algorithms, Infrastructure and Math(actually I am bad at math but I like it).
-- In my free time, I read articles and watch tech videos.
-- You can reach me at my email karlm.roxas@gmail.com
-- Proficiency in Full Stack Web and Software Development
----
-
-### Language and Tools:
-
-<div>
-  <img src="./resource/java.png" height="50"/>&nbsp;
-  <img src="./resource/c-.png" height="50"/>&nbsp;
-  <img src="./resource/python.png" height="50"/>&nbsp;
-  <img src="./resource/csharp-original.svg" height="50"/>&nbsp;
-  <img src="./resource/javascript-original.svg" height="50"/>&nbsp;
-  <img src="./resource/typescript-original.svg" height="50"/>&nbsp;
-  <img src="./resource/php-original.svg" height="50"/>&nbsp;
-  <img src="./resource/bootstrap-original.svg" height="50"/>&nbsp;
-  <img src="resource\5352-html5_102567.png" height="50"/>&nbsp;
-  <img src="resource\CSS3_icon-icons.com_67069.png" height="50"/>&nbsp;
-  <img src="resource/angular.png" height="50"/>&nbsp;
-  <img src="resource/nodejs.svg" height="50"/>&nbsp;
-  <img src="resource/Expressjs.png" height="50"/>&nbsp;
-  <img src="resource/MongoDB_ForestGreen.png" height="40"/>&nbsp;
-  <img src="resource\git_original_wordmark_logo_icon_146510.png" height="50">&nbsp;
-  <img class="white" src="resource\sql-server.png" height="70"/>&nbsp;
-  <img src="resource/postman.png" height="50"/>&nbsp;
-  <img src="resource/heroku-original.svg" height="50"/>&nbsp;
-  <img src="resource/npm-original-wordmark.svg" height="50"/>&nbsp;
-  <img src="resource/01-primary-blue-docker-logo.png" height="50"/>&nbsp;
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Karl</h1></summary>
+  </ul>
 </div>
 
----
-### My Stats
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karlroxas21/karlroxas21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/karlroxas21/karlroxas21/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/karlroxas21/karlroxas21/output/github-snake.svg" />
+</picture>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Karlroxas21&theme=github-dark-dimmed)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karlroxas21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+- 🔭 I’m currently working on **Typescript, Java, Angular, React, React Native, Expressjs and Spring Boot**
+
+- 🌱 I’m currently learning **AWS Services and Kubernetes**
+
+- ☁️ I've been interested in cloud computing. So,I'm learning **AWS**
+
+- 📝 I regularly write articles and notes on my [Personal Website](https://karlroxas.is-a.dev/)
+
+- 📫 Feel free to reach me out **karlm.roxas@gmail.com**
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=karlroxas21&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=karlroxas21&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=karlroxas21&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,java,spring,angular,react,tailwind,npm,idea,nextjs,go,git,aws,css,docker,postgres,express,figma,firebase,redis,github,html,js,linux,md,materialui,nginx,mongodb,nodejs,postman,bash,vscode,kubernetes&perline=14" />
+  </a>
+</p>
+
+
+<!-- Connect with me -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+  </ul>
+</div>
+
+<!--icons and links-->
+<p align="center">
+<a href="https://www.linkedin.com/in/km-roxas/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://karlroxas.is-a.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
+  
+</p>
+
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+Last Edited on: Oct. 03, 2025
