@@ -17,11 +17,11 @@
 
 
 
-- 🔭 I’m currently working on **Typescript, Java, Angular, React, React Native, Expressjs and Spring Boot**
+- 🔭 I’m currently working on my Personal Project **RainyDays**
 
-- 🌱 I’m currently learning **AWS Services and Kubernetes**
+- 🌱 I’m currently learning **AWS for CCP Certification, and Kubernetes**
 
-- ☁️ I've been interested in cloud computing. So,I'm learning **AWS**
+- ☁️ I've been interested in cloud computing and AI.
 
 - 📝 I regularly write articles and notes on my [Personal Website](https://karlroxas.is-a.dev/)
 
