@@ -17,9 +17,9 @@
 
 
 
-- 🔭 I’m currently working on my Personal Project **RainyDays**
+- 🔭 I’m currently working on my Personal Project **RainyDays** and **PostWall**
 
-- 🌱 I’m currently learning **AWS for CCP Certification, and Kubernetes**
+- 🌱 I’m currently learning **Azure Cloud**
 
 - ☁️ I've been interested in cloud computing and AI.
 
@@ -60,7 +60,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,java,spring,angular,react,tailwind,npm,idea,nextjs,go,git,aws,css,docker,postgres,express,figma,firebase,redis,github,html,js,linux,md,materialui,nginx,mongodb,nodejs,postman,bash,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=ts,cs,dotnet,azure,react,grafana,java,spring,angular,react,tailwind,idea,nextjs,go,git,aws,css,docker,postgres,express,figma,redis,github,html,js,linux,md,materialui,nginx,mongodb,nodejs,postman,bash,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
@@ -85,4 +85,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
-Last Edited on: Oct. 03, 2025
+Last Edited on: Aug. 22, 2026
